@@ -2,5 +2,4 @@ data/
 Stage3/scoring_fit.py
 Stage3/scoring_model.py
 checkpoint/
-*.csv
-*.ipynb
+concat/*.csv
